@@ -12,7 +12,7 @@ I love working with Vuejs.
 - [Dev.to](https://dev.to/jordypereira)
 
 ## Some stats
-[![Perjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=perjor&show_icons=true&hide_border=true&count_private=true)
+[![Perjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordypereira&show_icons=true&hide_border=true&count_private=true)
 
 ## What stack did I recently work on
-![Perjor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=perjor)](https://github.com/anuraghazra/github-readme-stats)
+![Perjor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordypereira)](https://github.com/anuraghazra/github-readme-stats)
