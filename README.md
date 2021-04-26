@@ -1,7 +1,7 @@
 Hello.
 
 My name is Jordy Pereira and I'm currently a frontend Developer at Prorenata based in Stockholm, Sweden.  
-I wish to be more involved in open source projects and the community, becuase I believe in helping eachother out. 
+I wish to be more involved in open source projects and the community, because I believe in helping eachother out. 
 
 I love working with Vuejs.
 
