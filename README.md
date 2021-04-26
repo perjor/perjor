@@ -10,6 +10,7 @@ I love working with Vuejs.
 - [LinkedIn](https://linkedin.com/in/jordypereira)
 - [Twitter](https://twitter.com/_perjor)
 - [Dev.to](https://dev.to/jordypereira)
+- [Personal Homepage](https://jordypereira.be)
 
 ## Some stats
 [![Perjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordypereira&count_private=true&title_color=dc2626&icon_color=dc2626)](https://github.com/anuraghazra/github-readme-stats)
