@@ -8,7 +8,7 @@ I love working with Vuejs.
 ## You can follow me on
 
 - [LinkedIn](https://linkedin.com/in/jordypereira)
-- [Twitter](https://twitter.com/_perjor)
+- [Twitter](https://twitter.com/_jordypereira)
 - [Dev.to](https://dev.to/jordypereira)
 - [Personal Homepage](https://jordypereira.be)
 
