@@ -2,8 +2,6 @@ Hello.
 
 My name is Jordy Pereira and I'm currently a frontend Developer at Prorenata based in Stockholm, Sweden.  
 
-I love working with Vuejs.
-
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
