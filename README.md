@@ -1,6 +1,6 @@
 Hello.
 
-My name is Jordy Pereira and I'm currently a Frontend Developer at Prorenata based in Stockholm, Sweden.  
+My name is Jordy Pereira and I'm currently a Frontend Developer at Happy Socks based in Stockholm, Sweden.  
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
