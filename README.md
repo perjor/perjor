@@ -1,6 +1,6 @@
 Hello.
 
-My name is Jordy Pereira and I'm currently a Frontend Developer at Happy Socks based in Stockholm, Sweden.  
+I'm currently working as a Frontend Developer at Happy Socks based in Stockholm, Sweden.  
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
@@ -24,18 +24,10 @@ My name is Jordy Pereira and I'm currently a Frontend Developer at Happy Socks b
 
 - [LinkedIn][linkedin]
 - [Twitter][twitter]
-- [Dev.to][dev.to]
-- [Personal Homepage][homepage]
-
-## Some stats
-[![Perjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordypereira&count_private=true&title_color=dc2626&icon_color=dc2626)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What stack did I recently work on
 ![Perjor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordypereira&title_color=dc2626)
 
-
-
 [linkedIn]: https://linkedin.com/in/jordypereira
 [twitter]: https://twitter.com/_jordypereira
-[dev.to]: https://dev.to/jordypereira
 [homepage]: https://jordypereira.be
