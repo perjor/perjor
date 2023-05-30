@@ -26,7 +26,7 @@ I'm currently working as a Frontend Developer at Happy Socks based in Stockholm,
 - [Twitter][twitter]
 
 ## What stack did I recently work on
-![Perjor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordypereira&title_color=dc2626)
+![Jordy Pereira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordypereira&title_color=dc2626)
 
 [linkedIn]: https://linkedin.com/in/jordypereira
 [twitter]: https://twitter.com/_jordypereira
