@@ -3,7 +3,7 @@ Hello.
 I'm currently working as Lead Developer E-Commerce at Happy Socks based in Stockholm, Sweden.  
 
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
 </p>
