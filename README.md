@@ -1,6 +1,6 @@
 Hello.
 
-I'm currently working as a Frontend Developer at Happy Socks based in Stockholm, Sweden.  
+I'm currently working as Lead Developer E-Commerce at Happy Socks based in Stockholm, Sweden.  
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
