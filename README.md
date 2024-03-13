@@ -4,20 +4,19 @@ I'm currently working as Lead Developer E-Commerce at Happy Socks based in Stock
 
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?style=for-the-badge">
 </p>
 
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"/>
-  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
 </p>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white&style=for-the-badge"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 ## You can follow me on
