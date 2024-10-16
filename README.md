@@ -5,7 +5,7 @@ I'm currently working as Lead Developer E-Commerce at Happy Socks based in Stock
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
-  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?style=for-the-badge">
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?logo=zod&style=for-the-badge">
 </p>
 
 <p>
